@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"ALL"
+			],
+			[
+				"pthr",
+				"pthread_mutex_lock"
+			],
+			[
+				"bar",
+				"bar"
+			],
+			[
+				"si",
+				"size_t"
+			],
+			[
+				"cus",
+				"customer_thread"
+			],
+			[
+				"customer_t",
+				"customer_targ"
+			],
+			[
+				"c",
+				"customer"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"pth",
+				"pthread_barrier_wait"
+			],
+			[
+				"fi",
+				"finish"
+			],
+			[
+				"cu",
+				"cutting"
+			],
+			[
+				"ph",
+				"pthread_mutex_lock"
+			],
+			[
+				"q",
+				"queue"
+			],
+			[
+				"pthre",
+				"pthread_cond_signal"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"w",
+				"wchairs"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"pt",
+				"pthread_mutex_init"
+			],
+			[
+				"pthread_co",
+				"pthread_cond_wait"
+			],
+			[
+				"f",
+				"flist"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"fr",
+				"frozen"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ac",
+				"accessor"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"n",
+				"nca"
+			],
+			[
+				"from",
+				"from"
+			],
+			[
+				"K",
+				"KERNEL_SECTOR_SIZE"
+			],
+			[
+				"blk",
+				"blksize"
+			],
+			[
+				"b",
+				"buffer"
+			],
+			[
+				"mem",
+				"memcpy"
+			],
+			[
+				"setup_",
+				"setup_cypher"
+			],
+			[
+				"se",
+				"setup"
+			],
+			[
+				"err_bl",
+				"err_blkcipher"
+			],
+			[
+				"E",
+				"ENOMEM"
+			],
+			[
+				"bl",
+				"blkbuf"
+			],
+			[
+				"Ker",
+				"KERN_WARNING"
+			],
+			[
+				"sec",
+				"sectors"
+			],
+			[
+				"sector",
+				"sector_t"
+			],
+			[
+				"lo",
+				"long"
+			],
+			[
+				"de",
+				"devs"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"er",
+				"err_queue"
+			],
+			[
+				"err",
+				"err_data"
+			],
+			[
+				"ou",
+				"out_vfree"
+			],
+			[
+				"memory",
+				"memory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Khoa/college/projects/raw/__main__.py",
+			"settings":
+			{
+				"buffer_size": 1779,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Khoa/college/projects/raw/client.py",
+			"settings":
+			{
+				"buffer_size": 2494,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Khoa/college/projects/raw/db.py",
+			"settings":
+			{
+				"buffer_size": 4888,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Khoa/college/projects/raw/exception.py",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Khoa/college/projects/raw/login.py",
+			"settings":
+			{
+				"buffer_size": 1311,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Khoa/college/projects/raw/main.py",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.go",
+			"settings":
+			{
+				"buffer_size": 122,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Khoa/software/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Khoa/projects/go/src/github.com/rnd-user/raws/main.go",
+		"/D/Khoa/projects/go/src/github.com/rnd-user/raws/hi.go",
+		"/D/Khoa/college/projects/raw/__init__.py",
+		"/D/Khoa/college/projects/raw/protocols/vnc/__init__.py",
+		"/D/Khoa/college/projects/raw/protocols/__init__.py",
+		"/H/ff/New Text Document.txt",
+		"/D/Khoa/ssn.txt",
+		"/D/Khoa/college/fall2015/cs461/group_eval_team_14_nguyenk4.txt",
+		"/D/Khoa/college/fall2015/cs472/CS472_final_nguyenk4/final/final_nguyenk4.tex",
+		"/D/Khoa/college/fall2015/cs472/CS472_final_nguyenk4/final/makefile",
+		"/D/Khoa/college/fall2015/cs472/CS472_final_nguyenk4/final/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs472/final/final_nguyenk4.tex",
+		"/D/Khoa/college/fall2015/cs472/final/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs472/final/makefile",
+		"/C/Users/Khoa/AppData/Local/Temp/7zO9DBC.tmp/writeup.tex",
+		"/D/Khoa/college/fall2015/cs444/proj5 - Copy/bibliography.tex",
+		"/D/Khoa/college/fall2015/cs444/proj5 - Copy/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs444/proj5/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs444/proj5/bibliography.tex",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_49.tar/final/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_49.tar/final/final_nguyenk4.tex",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_49.tar/final/makefile",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_49.tar/final/annotate.bst",
+		"/D/Khoa/college/fall2015/cs444/final/final_nguyenk4.tex",
+		"/D/Khoa/college/fall2015/cs444/final/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs444/CS444_project5_49.tar/proj5/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs444/CS444_project5_49.tar/proj5/annotate.bst",
+		"/D/Khoa/college/fall2015/cs444/CS444_project5_49.tar/proj5/makefile",
+		"/D/Khoa/college/fall2015/cs444/CS444_project5_49.tar/proj5/bibliography.tex",
+		"/D/Khoa/college/fall2015/cs444/proj5/makefile",
+		"/D/Khoa/college/fall2015/cs444/final/makefile",
+		"/D/Khoa/college/fall2015/cs444/CS444_project4_49.tar/CS444_project4_49/proj4/writeup.tex",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_lixua.tar/bibliography.bib",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_lixua.tar/lixua_final.tex",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_lixua.tar/annotate.bst",
+		"/D/Khoa/college/fall2015/cs444/final/annotate.bst",
+		"/D/Khoa/college/fall2015/cs444/final/Makefile",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_lixua.tar/Makefile",
+		"/D/Khoa/college/fall2015/cs444/final/final.tex",
+		"/D/Khoa/college/fall2015/cs444/CS444_final_lixua.tar/template_final.tex",
+		"/D/Khoa/college/fall2015/cs444/final.tex",
+		"/D/Khoa/college/fall2015/cs444/CS444_project4_49.tar/proj4/writeup.tex",
+		"/D/Khoa/college/fall2015/cs472/proj4/p2.c",
+		"/D/Khoa/college/fall2015/cs472/proj4/p3.c",
+		"/D/Khoa/college/fall2015/cs472/proj4/p4.c",
+		"/C/Users/Khoa/Desktop/confirm.txt",
+		"/C/Users/Khoa/Desktop/New Text Document.txt",
+		"/H/tmp.sql",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/worker.h",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/worker.c",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/work.h",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/work.c",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/queue.h",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/queue.c",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/p2.c",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/p1.c",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/flist.h",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/flist.c",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/barrier.h",
+		"/D/Khoa/college/fall2015/cs444/CS444_concurr4_49/concurr4/barrier.c",
+		"/D/Khoa/college/fall2015/cs444/concurr4/p1.c",
+		"/D/Khoa/college/fall2015/cs444/concurr4/queue.h",
+		"/D/Khoa/college/fall2015/cs444/concurr4/queue.c",
+		"/D/Khoa/college/fall2015/cs444/concurr4/p2.c",
+		"/D/Khoa/college/fall2015/cs444/concurr4/barrier.h",
+		"/D/Khoa/college/fall2015/cs444/concurr4/barrier.c",
+		"/D/Khoa/college/fall2015/cs444/concurr4/flist.h",
+		"/D/Khoa/college/fall2015/cs444/concurr4/worker.h",
+		"/D/Khoa/college/fall2015/cs444/proj1/worker.h",
+		"/D/Khoa/college/fall2015/cs444/proj1/work.h",
+		"/D/Khoa/college/fall2015/cs444/imbd/imbd_unload",
+		"/D/Khoa/college/fall2015/cs444/imbd/imbd_load",
+		"/D/Khoa/college/fall2015/cs444/imbd/imbd.c",
+		"/D/Khoa/software/Sublime Text Build 3083 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Khoa/college/fall2015/cs444/examples/sbull/sbull.c",
+		"/D/Khoa/college/fall2015/cs444/imbd/Makefile",
+		"/D/Khoa/college/fall2015/cs444/examples/sbull/imbd.c",
+		"/D/Khoa/college/fall2015/cs444/examples/sbull/imbd.h",
+		"/D/Khoa/college/fall2015/cs444/examples/sbull/sbull.h"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			",Man}",
+			"\\cite{Man,",
+			"\\cite{Man}",
+			"’",
+			"}",
+			"{",
+			"“",
+			"”",
+			"“",
+			",",
+			"’",
+			"'",
+			"’",
+			"xu",
+			"[]",
+			"parsk",
+			"lstset",
+			"parin",
+			"$",
+			"inbook",
+			"WProcThread",
+			"WProcT",
+			"WProc",
+			"FProc",
+			"&",
+			"xu",
+			"&",
+			"_",
+			"/",
+			"()",
+			"xu",
+			"xua",
+			"sleep",
+			"barrier",
+			"++",
+			"--",
+			"++",
+			"--",
+			"finish",
+			"thread",
+			"work_",
+			"KERNEL_",
+			"KERNEL_N",
+			"KERNEL_NO",
+			"kernel_no",
+			"filp",
+			"line_end",
+			"minors",
+			"chardevice",
+			"IMBD_MINORS",
+			"file",
+			"private_data",
+			"->size",
+			"nsectors",
+			"block_device",
+			"queued",
+			"queuedata",
+			"sbull",
+			"kdevnum",
+			"IMBD_MINORS",
+			"DEVNUM",
+			"MINOR_SHIFT",
+			"imbd_xfer_bio",
+			"devs",
+			"hardse",
+			"SBULL",
+			"imbd_full_request",
+			"request_mode",
+			"nsectors",
+			"ndevices",
+			"imbd_major",
+			"sbd",
+			"Devices",
+			"ndevices",
+			"sbull",
+			"module_param",
+			"sbull_init",
+			"MODULE_",
+			"SBULL_MINORS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\cite{ManA,",
+			"\\cite{ManA}",
+			"'",
+			"\"",
+			"``",
+			"\"",
+			",",
+			"'",
+			"sync",
+			"",
+			"imbd",
+			"IMBD",
+			"ndevs",
+			"devs",
+			"imbd"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Khoa/college/projects/raw/__main__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Khoa/college/projects/raw/client.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Khoa/college/projects/raw/db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Khoa/college/projects/raw/exception.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Khoa/college/projects/raw/login.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Khoa/college/projects/raw/main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "main.go",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "raws.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
